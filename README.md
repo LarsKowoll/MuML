@@ -2,9 +2,9 @@
 
 ## Praktikum
 - Aufgabe 1: erledigt
-- Aufgabe 2: zur Abgabe bereit
-- Aufgabe 3: offen
-- Aufgabe 4: offen
+- Aufgabe 2: erledigt
+- Aufgabe 3: erledigt
+- Aufgabe 4: erledigt
 
 ## Contributors
 - Michael Babic
